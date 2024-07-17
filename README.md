@@ -1,6 +1,5 @@
 # Motion Controlled Game System with OpenCV
 
-![Motion Controlled Game System](game_system_image.png)
 
 The Motion Controlled Game System is an interactive gaming project that allows users to control games using hand gestures and movements. This repository contains the source code and resources for the project, enabling developers to understand how to implement motion control in their own games using OpenCV.
 
@@ -41,7 +40,7 @@ To run the Motion Controlled Game System, you need the following dependencies:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/motion-controlled-game-system.git
+https://github.com/DivyahTm/Motion-Gesture-Based-Game-Controlled-System.git
 cd motion-controlled-game-system
 ```
 
